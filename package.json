@@ -27,6 +27,7 @@
   "dependencies": {
     "prop-types": "15.5.10",
     "react-native-progress": "^3.2.0",
+    "react-native-swiper": "^1.5.13",
     "react-native-video": "^2.0.0"
   }
 }
